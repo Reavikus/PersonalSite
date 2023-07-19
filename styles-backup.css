@@ -1,0 +1,32 @@
+body{
+    background:cornflowerblue;
+}
+
+.head-text{
+    color: #FCFFE7;
+    text-align: center;
+    background: navy;
+    width: 80%;
+    border-left: 10px solid beige;
+    border-right: 10px solid beige;
+    border-top: 3px solid beige;
+    border-bottom: 3px solid beige;
+}
+
+.text-boxes{
+    color: #FCFFE7;
+    text-align: center;
+    background: navy;
+    width: 300px;
+    margin-left: 60px solid beige;
+    margin-right: 60px solid beige;
+    border-left: 10px solid beige;
+    border-right: 10px solid beige;
+    border-top: 3px solid beige;
+    border-bottom: 3px solid beige; 
+}
+
+div{
+    height: 200px;
+    width: 200px;
+}
