@@ -1,5 +1,5 @@
 body{
-    background:cornflowerblue;
+    background:rgb(83, 121, 192);
 }
 
 .head-text{
@@ -12,7 +12,7 @@ body{
     border-top: 3px solid beige;
     border-bottom: 3px solid beige;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px 5px #FCFFE7;
+    box-shadow: 5px #FCFFE7;
     transition: 0.5s;
 }
 
@@ -38,7 +38,7 @@ body{
     font-weight: bold;
     font-family: 'Belanos', sans-serif;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px 5px #FCFFE7;
+    box-shadow: 5px #FCFFE7;
     transition: 0.5s;
 }
 
